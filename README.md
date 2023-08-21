@@ -1,7 +1,7 @@
 
 # Analyse Exploratoire Automatique de Données
 
-Ce projet contient un script Python pour effectuer une analyse exploratoire automatisée sur n'importe quel ensemble de données CSV. Le script réalise diverses analyses et visualisations pour comprendre les tendances, les corrélations et la distribution des données.
+Ce dépôt contient un outil de traitement de données développé par M-KIS pour effectuer diverses tâches d'analyse de données, de prétraitement et d'apprentissage automatique. L'outil se compose de plusieurs scripts conçus pour être modulaires et personnalisables en fonction de vos données et de vos besoins d'analyse.
 
 ## Fonctionnalités
 
