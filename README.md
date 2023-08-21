@@ -1,5 +1,5 @@
 
-# Analyse Exploratoire Automatique de Données
+# M-KIS AI Preprocessing Dataset
 
 Ce dépôt contient un outil de traitement de données développé par M-KIS pour effectuer diverses tâches d'analyse de données, de prétraitement et d'apprentissage automatique. L'outil se compose de plusieurs scripts conçus pour être modulaires et personnalisables en fonction de vos données et de vos besoins d'analyse.
 
