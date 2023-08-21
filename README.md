@@ -15,6 +15,25 @@ Ce projet contient un script Python pour effectuer une analyse exploratoire auto
 - **Clustering**: Utilise K-means pour effectuer une analyse de cluster sur les caractéristiques numériques.
 - **Rapport d'Analyse Exploratoire**: Génère un rapport HTML complet à l'aide de ydata-profiling.
 
+### Étape 2 : Séparer les Données
+
+- **Le script `separate_data_test_train.py`**: permet de séparer votre ensemble de données en ensembles d'apprentissage et de test.
+- **Ajustez le ratio de séparation et autres** paramètres selon vos besoins dans le script.
+3. Les ensembles de données séparés seront enregistrés sous les noms `X_train.csv`, `y_train.csv`, `X_test.csv` et `y_test.csv`.
+
+### Étape 3 : Entraîner et Évaluer les Modèles
+
+- **Le script `model_train.py`** est utilisé pour entraîner et évaluer des modèles d'apprentissage automatique sur votre ensemble de données.
+2. Le script déterminera automatiquement le type de problème (classification ou régression) en fonction de votre colonne cible.
+3. Vous serez invité à sélectionner un modèle à entraîner et à évaluer.
+4. Après l'entraînement et l'évaluation, vous aurez la possibilité d'enregistrer le modèle et d'obtenir un exemple de code pour l'interroger.
+
+## Personnalisation
+
+- Modifiez les scripts selon vos besoins pour adapter le traitement à vos données spécifiques et à vos exigences d'analyse.
+- Vous pouvez ajuster les paramètres, ajouter des étapes de prétraitement personnalisées et modifier les options de sélection de modèle.
+
+
 ## Comment Utiliser
 
 1. **Installer les Dépendances**:
