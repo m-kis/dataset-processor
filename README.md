@@ -45,7 +45,7 @@ Ce projet contient un script Python pour effectuer une analyse exploratoire auto
 2. **Exécuter le Script**:
    Exécutez le script `analyse_exploratoire_ameliore_fr_complet.py`:
    ```
-   python analyse_exploratoire_ameliore_fr_complet.py
+   python main_scripts.py
    ```
 
 3. **Fournir le Chemin du Fichier CSV**:
