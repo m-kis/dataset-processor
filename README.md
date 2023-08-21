@@ -43,7 +43,7 @@ Ce dépôt contient un outil de traitement de données développé par M-KIS pou
    ```
 
 2. **Exécuter le Script**:
-   Exécutez le script `analyse_exploratoire_ameliore_fr_complet.py`:
+   Exécutez le script `main_scripts.py`:
    ```
    python main_scripts.py
    ```
